@@ -27,7 +27,8 @@ Diagramas
 - Uso: [Diagrama de Uso]
 - Classes: [Diagrama de Classes]
 
-**ORÇAMENTO**
+ORÇAMENTO
+----------
 - Orçamento especificado: [Orcamento]
 
 [Login Desktop]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/telasDesktop/1Login.png
