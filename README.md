@@ -27,7 +27,7 @@ Diagramas
 - Uso: [Diagrama de Uso]
 - Classes: [Diagrama de Classes]
 
-ORÇAMENTO
+Orçamento
 ----------
 - Orçamento especificado: [Orcamento]
 
