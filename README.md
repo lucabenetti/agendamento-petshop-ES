@@ -1,5 +1,5 @@
 # Projeto Agendamento para PetShop
-Projeto desenvolvido na disciplina de Engenharia de Software na Universidade Federal de Goiás. Sendo o objetivo o desenvolvimento dos requisitos, diagramas e telas para um sistema de agendamento. No caso em particular, de um PetShop.
+Projeto desenvolvido na disciplina de Engenharia de Software na Universidade Federal de Goiás. Sendo o objetivo o desenvolvimento dos requisitos, diagramas, telas e orçamento para um sistema de agendamento. No caso em particular, de um PetShop.
 
 Requisitos
 -------
