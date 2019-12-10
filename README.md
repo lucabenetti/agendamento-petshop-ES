@@ -31,16 +31,16 @@ Orçamento
 ----------
 - Orçamento especificado: [Orçamento]
 
-[Login Desktop]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/telasDesktop/1Login.png
-[Agendamentos Desktop]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/telasDesktop/2Agendamentos.png
-[Novo agendamento Desktop]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/telasDesktop/3NovoAgendamento.png
-[Clientes Desktop]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/telasDesktop/4Clientes.png
-[Suporte Desktop]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/telasDesktop/5Suporte.png
-[Login Mobile]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/telasMobile/1Login.png
-[Agendamento Tela 1 Mobile]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/telasMobile/2Agendamento1.png
-[Agendamento Tela 2 Mobile]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/telasMobile/3Agendamento2.png
-[Diagrama de Classes]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/diagramaClasses.png
-[Diagrama de Uso]:  https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/diagramaUso.png
-[Diagrama de Estados]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/diagramaEstados.png
-[Requisitos]: https://github.com/lucabenetti/AgendamentoPetShopES/blob/master/requisitos.pdf
+[Login Desktop]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/telasDesktop/1Login.png
+[Agendamentos Desktop]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/telasDesktop/2Agendamentos.png
+[Novo agendamento Desktop]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/telasDesktop/3NovoAgendamento.png
+[Clientes Desktop]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/telasDesktop/4Clientes.png
+[Suporte Desktop]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/telasDesktop/5Suporte.png
+[Login Mobile]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/telasMobile/1Login.png
+[Agendamento Tela 1 Mobile]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/telasMobile/2Agendamento1.png
+[Agendamento Tela 2 Mobile]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/telasMobile/3Agendamento2.png
+[Diagrama de Classes]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/diagramaClasses.png
+[Diagrama de Uso]:  https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/diagramaUso.png
+[Diagrama de Estados]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/diagramaEstados.png
+[Requisitos]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/requisitos.pdf
 [Orçamento]: https://github.com/lucianovianna/AgendamentoPetShopES/blob/master/orcamento.md
