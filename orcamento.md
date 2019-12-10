@@ -11,8 +11,6 @@ Orçamento realizado através da metodologia padrão (pontos de função), deter
 
  - 6  telas (complexidade baixa);
 	 - Custo médio por ponto: R$ 400,00.
- - 2  interações (complexidade baixa);
-	 - Custo médio por ponto: R$ 400,00.
  - 2  API e integração da API com sistema (complexidade alta).
 	 - Custo médio por ponto: R$ 1000,00.
 
